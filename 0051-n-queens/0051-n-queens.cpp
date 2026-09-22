@@ -44,7 +44,7 @@ public:
 
         //check the each row
         for(int col = 0;col < n;col++) {
-            if(!cl[col] && !d1[row + col] && !d2[row - col + n + 1]) {
+            if(!cl[col] && !d1[row + col] && !d2[row - col + n+1]) {
                 A[row][col] = 'Q';
                 cl[col] = d1[row+col] = d2[row-col+n+1] = 1;
                 Solve(row+1,ds,A,n);
