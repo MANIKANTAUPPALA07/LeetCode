@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0052-n-queens-ii) |
@@ -37,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
