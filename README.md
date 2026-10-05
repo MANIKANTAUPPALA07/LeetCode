@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Array
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0078-subsets) |
+| [0239-sliding-window-maximum](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,4 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
