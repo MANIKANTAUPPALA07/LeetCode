@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0022-generate-parentheses) |
 ## Queue
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
