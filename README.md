@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -92,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
