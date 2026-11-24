@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
 | ------- |
@@ -106,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
