@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3360-stone-removal-game](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3360-stone-removal-game](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
