@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0022-generate-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0078-subsets) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
