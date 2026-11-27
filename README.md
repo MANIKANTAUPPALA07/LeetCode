@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/0022-generate-parentheses) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/MANIKANTAUPPALA07/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
